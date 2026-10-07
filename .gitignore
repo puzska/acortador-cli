@@ -1,0 +1,13 @@
+# Dependencias
+node_modules/
+
+# Almacenamiento local de enlaces (privacidad y datos de usuario)
+links.json
+
+# Logs y temporales
+*.log
+npm-debug.log*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

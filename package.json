@@ -1,0 +1,20 @@
+{
+  "name": "acortador-cli",
+  "version": "1.0.0",
+  "description": "Acortador de URLs local para línea de comandos",
+  "type": "module",
+  "bin": {
+    "acortador": "./bin/acortador.js"
+  },
+  "scripts": {
+    "start": "node bin/acortador.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "url-shortener",
+    "cli",
+    "local"
+  ],
+  "author": "",
+  "license": "MIT"
+}
